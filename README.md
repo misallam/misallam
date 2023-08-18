@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/misallam/misallam/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -11,8 +9,6 @@
 <h2 align="left">I use the following technologies to excel:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
@@ -33,8 +29,6 @@
 <h2 align="left">Take a look at my overall statistics:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=misallam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
