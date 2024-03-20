@@ -1,8 +1,6 @@
-# README Template for GitHub Profile
+# WELCOME TO MISALLAM'S SPACE
 
-## Welcome to My GitHub Profile!
-
-Hello there! I'm a fellow problem solver with a profound interest in Python, C++, Data Science, Machine Learning, and Deep Learning. With over three years of experience, I'm primarily focusing on leveraging Arabic data to drive innovation and impact accross the MEANS region.
+I'm a fellow problem solver with a profound interest in Python, C++, Data Science, Machine Learning, and Deep Learning. With over three years of experience, I'm primarily focusing on leveraging Arabic data to drive innovation and impact accross the MEANS region.
 
 ### Professional Experience
 
