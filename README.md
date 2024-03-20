@@ -26,6 +26,6 @@ My commitment to AI transformation in the MENA region is driven by a deep-seated
 
 ### Let's Connect
 
-I'm always on the lookout for new challenges and opportunities to further my expertise and make a difference through technology. If you're interested in collaborating or wish to learn more about my work, feel free to reach out through [GitHub](https://github.com/misallam) or [LinkedIn](in/abdelrahmanmisallam).
+I'm always on the lookout for new challenges and opportunities to further my expertise and make a difference through technology. If you're interested in collaborating or wish to learn more about my work, feel free to reach out through [LinkedIn](in/abdelrahmanmisallam).
 
 Thank you for visiting my profile. Let's innovate together!
